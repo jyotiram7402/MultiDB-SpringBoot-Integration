@@ -1,0 +1,9 @@
+2 Databases or 2 Datasource to connect with one Service:
+
+
+3 major things we need to take care of as:
+
+
+1) Define the data sources we want to interact
+2) Entity Manager we need to define along with some properties.
+3) Transactional Manger we need to define for all types of queries
